@@ -9,8 +9,8 @@
 
 ### 01 Move CTF Check In
 - [x] CLI call 截图: ![task1](./images/task1.png)
-- [x] flag hash: 6b8fCTjfoKy9yvcGFb7MXvC6uXXoPSxfeoRM8z6k3q2N
+- [x] flag hash: 7XrkexS43yvPuuQaeLYRDVnWzuzTtkpdDLquLmM8uTQ9
 
 ### 02 Move CTF Lets Move
-- [x] proof: [163,72,102,0]
-- [x] flag hash: 5korJD1KWLAikydzJ5BKg7ErKiaBztzgFgC6XBC96Q1W
+- [] proof: 
+- [] flag hash: 
