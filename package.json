@@ -1,0 +1,8 @@
+{
+    "name": "mdbook-vercel",
+    "version": "1.0.0",
+    "scripts": {
+        "install-mdbook": "curl -Lo mdbook.tar.gz https://github.com/rust-lang/mdBook/releases/download/v0.4.32/mdbook-v0.4.32-x86_64-unknown-linux-musl.tar.gz && tar -xvzf mdbook.tar.gz && rm mdbook.tar.gz",
+        "build": "npm run install-mdbook && ./mdbook build"
+    }
+  }
